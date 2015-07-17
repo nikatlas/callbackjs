@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/myconfig.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/package.json" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/test/callback-spec.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/test/jasmine.js" charset="UTF-8" />
   </component>

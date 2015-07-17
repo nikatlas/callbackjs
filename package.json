@@ -1,35 +1,26 @@
 {
   "name": "callbackjs",
   "version": "0.0.1",
-  "description": "Simple callback javascript library to ",
-  "homepage": "https://github.com/nikatlas/callback",
-  "repository": "https://github.com/nikatlas/callback",
+  "description": "Simple callback javascript library",
+  "homepage": "https://github.com/nikatlas/callbackjs",
+  "repository": "https://github.com/nikatlas/callbackjs",
   "author": {
     "name": "Nikatlas",
     "email": "nikatlas@gmail.com",
     "url": ""
   },
   "keywords": [
-    "gruntplugin"
+    "callback",
+    "callbackjs",
+    "event"
   ],
-  "main": "Gruntfile.js",
-  "engines": {
-    "node": ">= 0.8.0"
-  },
   "license": "MIT",
   "devDependencies": {
-    "grunt": "~0.4.2",
-    "grunt-contrib-clean": "~0.5.0",
-    "grunt-contrib-jshint": "~0.8.0",
-    "grunt-contrib-nodeunit": "~0.3.0",
     "jshint-stylish": "~0.1.5",
     "karma": "^0.13.1",
     "karma-chrome-launcher": "^0.2.0",
     "karma-coverage": "^0.4.2",
     "karma-jasmine": "^0.3.6",
     "load-grunt-tasks": "~0.3.0"
-  },
-  "scripts": {
-    "test": "grunt test"
   }
 }
